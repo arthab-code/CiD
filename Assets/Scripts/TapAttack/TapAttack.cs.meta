@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8070b53a5f5b075479bf0fd7192022f0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hit_anim: {fileID: 1786635966317478, guid: 39d94ac245e366e438cff32e6732ada0, type: 2}
+  - shipScript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

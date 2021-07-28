@@ -1,0 +1,5 @@
+- Gra poczatkowo byla na w wersji Unity 2017
+- Po migracji do wersji 2019 doszlo do uszkodzenia niektorych drobnych elementow GUI (glownie po uzyciu przycisku MUTE)
+- Jest to wersja przejsciowa gdzie chcialem zmienic szate interfejsu graficznego - jednak z niewyjasnionych powodow nie doszlo to do skutku :)
+- Z racji tego, ze gre robilem kompletnie nie znajac silnika Unity i jest to moj pierwszy projekt nie jest w niej wykorzystany nawet najmniejszy potencjal Unity (czyt. beznadziejna optymalziacja, kod wolajacy o pomste do nieba)
+- Mimo wszystko gra dziala 
